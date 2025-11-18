@@ -1,2 +1,22 @@
-# Scanva
-Realtime Language Learning Mobile App (Published)
+# <img width="27.5" height="27.5" alt="icon" src="https://github.com/user-attachments/assets/ebd85010-b681-490e-81cd-be1f548f32c9" style="border-radius:1000px; vertical-align:middle;" /> Scanva
+
+See. Tap. Translate. Scanva transforms your camera into a real-world language learning companion. 
+
+Download for iOS: https://testflight.apple.com/join/pJSEX5PB <br>
+Download for Android: COMING VERY SOON
+
+## Features
+• Instant Tap Translations — Detect and translate objects from your camera in seconds. Lightning-fast and accurate. <br>
+• 50+ Languages — Learn and translate across more than 50 languages worldwide. <br>
+• Vocabulary Sets — Create, track, and review custom vocab sets to strengthen your language skills. <br>
+• Flashcards — Practice and memorize words with interactive flashcards. <br>
+• Matching Mode — Challenge yourself by matching words to translations for faster retention. <br>
+• Dark Mode — Enjoy a sleek, eye-friendly interface. <br>
+
+## Built With
+React Native, Expo, TypeScript / JavaScript, SQLite, Firebase
+
+## Pictures
+Will fill this in later :)
+
+
