@@ -3,7 +3,7 @@
 See. Tap. Translate. Scanva transforms your camera into a real-world language learning companion. 
 
 Download for iOS: https://testflight.apple.com/join/pJSEX5PB <br>
-Download for Android: COMING VERY SOON
+Download for Android: https://play.google.com/store/apps/details?id=com.scanva.app
 
 ## Features
 • Instant Tap Translations — Detect and translate objects from your camera in seconds. Lightning-fast and accurate. <br>
