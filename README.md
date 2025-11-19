@@ -2,7 +2,7 @@
 
 See. Tap. Translate. Scanva transforms your camera into a real-world language learning companion. 
 
-Download for iOS: https://testflight.apple.com/join/pJSEX5PB <br>
+Download for iOS: https://apps.apple.com/us/app/scanva-tap-translate/id6754303606
 Download for Android: https://play.google.com/store/apps/details?id=com.scanva.app
 
 ## Features
